@@ -1,4 +1,4 @@
-#ImmersiveEngineering-0.12-76_ja_JP
+#ImmersiveEngineering-0.12-78_ja_JP
 #Ice_ink
 
 ï»¿ Byte Order Mark, because fuck you IntelliJ
@@ -1164,10 +1164,10 @@ ie.manual.entry.wiringTransformer0=§l変圧器§rを使えば異なる種類の
 ie.manual.entry.wiringTransformer1=4ページ目の2枚目の画像のように、<link;wiring;§o§n変圧器を支柱に§r;4>付属させることができます。<br>高電圧変圧器ではこうした配置を行うことはできません。
 ie.manual.entry.wiringCutters=§lワイヤカッター§rでブロック(接続端子,継電器など)を右クリックすると、ブロックに接続されているすべてのワイヤを取り外すことができます。
 ie.manual.entry.wiringVoltmeter=§l電圧計§rは流れている電気を測定をするために使用します。<br>任意のエネルギーストレージに向ける、またはそれを右クリックすることで現在の貯蔵量を知ることができるでしょう。<br>2つの接続端子をスニーク-右クリックして、それらの間の平均損失を算出することもできます。
-
+ie.manual.entry.wiringFeedthrough=外壁の穴を用意する必要はありません。絶縁フィードスルーはブロックの片面から他の面へと配線を通します。§l通常§rの§l個体§rのブロックであれば、どんなものもそこに組み込めます。使用する一対の接続端子(電源およびレッドストーン)によって、それぞれに対応する種類のワイヤーを通すことができます。
 
 ie.manual.entry.generator.name=発電
-
+ie.manual.entry.generator.subtext=
 ie.manual.entry.generator0=なんらかの動力があれば、それをエネルギーに変換することで利用しやすいものにできます。<br>実際にRFを生成するには、風車や水車の運動力を利用することができます。<br>これらをダイナモに接続すると、回転する速度に基づいて電力(RF)が生成されます。
 ie.manual.entry.generator1=水車はダイナモに向けて動力を伝えます。<br>回転速度は周囲を流れる水に基づいているので、最適な結果を得るには上半分から下半分に沿って水を半円形に向けることが望ましいでしょう。<br>水車は最大3つまで連結させることができます。
 ie.manual.entry.generator2=風車は'強力な'とまではいきませんが、シンプルで自由な発電方法です。<br>その速度は前面に確保されたスペースに依存し、空気の流れが滞るとその働きが大幅に低下します。<br>雨や雷雨のような気象条件では、強い風によって回転速度が向上します。
